@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppCantina</string>
+    <string name="manuel_silva">Manuel Silva</string>
+    <string name="_12345">12345</string>
+    <string name="txtViewName">Nome</string>
+    <string name="login">Login</string>
+    <string name="email_email_com">email@email.com</string>
+    <string name="senha">Senha</string>
+    <string name="ainda_n_o_tenho_uma_conta">Ainda não tenho uma conta</string>
+</resources>
